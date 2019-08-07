@@ -1,0 +1,89 @@
+D:\Programozás\Visual Studio\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\bin\Debug\Szakdolgozat1.exe.config
+D:\Programozás\Visual Studio\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\bin\Debug\Szakdolgozat1.exe
+D:\Programozás\Visual Studio\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\bin\Debug\Szakdolgozat1.pdb
+D:\Programozás\Visual Studio\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\obj\Debug\Szakdolgozat1.csprojResolveAssemblyReference.cache
+D:\Programozás\Visual Studio\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\obj\Debug\Szakdolgozat1.Alkatresz_felvitel.resources
+D:\Programozás\Visual Studio\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\obj\Debug\Szakdolgozat1.StatFelhasznalas.resources
+D:\Programozás\Visual Studio\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\obj\Debug\Szakdolgozat1.StatEladas.resources
+D:\Programozás\Visual Studio\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\obj\Debug\Szakdolgozat1.Fooldal.resources
+D:\Programozás\Visual Studio\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\obj\Debug\Szakdolgozat1.Kereses_alkatresz.resources
+D:\Programozás\Visual Studio\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\obj\Debug\Szakdolgozat1.Kereses_fodarab.resources
+D:\Programozás\Visual Studio\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\obj\Debug\Szakdolgozat1.Kereses_tartozek.resources
+D:\Programozás\Visual Studio\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\obj\Debug\Szakdolgozat1.Kereses_telefon.resources
+D:\Programozás\Visual Studio\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\obj\Debug\Szakdolgozat1.Kereses_urlapok.resources
+D:\Programozás\Visual Studio\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\obj\Debug\Szakdolgozat1.Properties.Resources.resources
+D:\Programozás\Visual Studio\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\obj\Debug\Szakdolgozat1.Selejtezes.resources
+D:\Programozás\Visual Studio\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\obj\Debug\Szakdolgozat1.Eladas.resources
+D:\Programozás\Visual Studio\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\obj\Debug\Szakdolgozat1.Uj.resources
+D:\Programozás\Visual Studio\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\obj\Debug\Szakdolgozat1.Uj_Alkatresz.resources
+D:\Programozás\Visual Studio\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\obj\Debug\Szakdolgozat1.Uj_Fodarab.resources
+D:\Programozás\Visual Studio\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\obj\Debug\Szakdolgozat1.Uj_Tartozek.resources
+D:\Programozás\Visual Studio\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\obj\Debug\Szakdolgozat1.Uj_Telefon.resources
+D:\Programozás\Visual Studio\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\obj\Debug\Szakdolgozat1.csproj.GenerateResource.Cache
+D:\Programozás\Visual Studio\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\obj\Debug\Szakdolgozat1.exe
+D:\Programozás\Visual Studio\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\obj\Debug\Szakdolgozat1.pdb
+D:\Programozás\Visual Studio\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\bin\Debug\MySql.Data.dll
+D:\Programozás\Visual Studio\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\bin\Debug\Google.Protobuf.dll
+D:\Programozás\Visual Studio\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\bin\Debug\MySql.Data.xml
+D:\Programozás\Visual Studio\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\obj\Debug\Szakdolgozat1.Fooldal___Bejelentkezve.resources
+D:\Programozás\Visual Studio\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\obj\Debug\Szakdolgozat1.Uj_jelszo.resources
+D:\Programozás\Visual Studio\Mentés\Szakdolgozat\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\bin\Debug\Szakdolgozat1.exe.config
+D:\Programozás\Visual Studio\Mentés\Szakdolgozat\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\bin\Debug\Szakdolgozat1.exe
+D:\Programozás\Visual Studio\Mentés\Szakdolgozat\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\bin\Debug\Szakdolgozat1.pdb
+D:\Programozás\Visual Studio\Mentés\Szakdolgozat\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\bin\Debug\MySql.Data.dll
+D:\Programozás\Visual Studio\Mentés\Szakdolgozat\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\bin\Debug\Google.Protobuf.dll
+D:\Programozás\Visual Studio\Mentés\Szakdolgozat\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\bin\Debug\MySql.Data.xml
+D:\Programozás\Visual Studio\Mentés\Szakdolgozat\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\obj\Debug\Szakdolgozat1.csprojResolveAssemblyReference.cache
+D:\Programozás\Visual Studio\Mentés\Szakdolgozat\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\obj\Debug\Szakdolgozat1.Alkatresz_felvitel.resources
+D:\Programozás\Visual Studio\Mentés\Szakdolgozat\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\obj\Debug\Szakdolgozat1.Uj_jelszo.resources
+D:\Programozás\Visual Studio\Mentés\Szakdolgozat\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\obj\Debug\Szakdolgozat1.Fooldal___Bejelentkezve.resources
+D:\Programozás\Visual Studio\Mentés\Szakdolgozat\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\obj\Debug\Szakdolgozat1.StatFelhasznalas.resources
+D:\Programozás\Visual Studio\Mentés\Szakdolgozat\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\obj\Debug\Szakdolgozat1.StatEladas.resources
+D:\Programozás\Visual Studio\Mentés\Szakdolgozat\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\obj\Debug\Szakdolgozat1.Fooldal.resources
+D:\Programozás\Visual Studio\Mentés\Szakdolgozat\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\obj\Debug\Szakdolgozat1.Kereses_alkatresz.resources
+D:\Programozás\Visual Studio\Mentés\Szakdolgozat\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\obj\Debug\Szakdolgozat1.Kereses_fodarab.resources
+D:\Programozás\Visual Studio\Mentés\Szakdolgozat\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\obj\Debug\Szakdolgozat1.Kereses_tartozek.resources
+D:\Programozás\Visual Studio\Mentés\Szakdolgozat\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\obj\Debug\Szakdolgozat1.Kereses_telefon.resources
+D:\Programozás\Visual Studio\Mentés\Szakdolgozat\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\obj\Debug\Szakdolgozat1.Kereses_urlapok.resources
+D:\Programozás\Visual Studio\Mentés\Szakdolgozat\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\obj\Debug\Szakdolgozat1.Properties.Resources.resources
+D:\Programozás\Visual Studio\Mentés\Szakdolgozat\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\obj\Debug\Szakdolgozat1.Selejtezes.resources
+D:\Programozás\Visual Studio\Mentés\Szakdolgozat\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\obj\Debug\Szakdolgozat1.Eladas.resources
+D:\Programozás\Visual Studio\Mentés\Szakdolgozat\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\obj\Debug\Szakdolgozat1.Uj.resources
+D:\Programozás\Visual Studio\Mentés\Szakdolgozat\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\obj\Debug\Szakdolgozat1.Uj_Alkatresz.resources
+D:\Programozás\Visual Studio\Mentés\Szakdolgozat\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\obj\Debug\Szakdolgozat1.Uj_Fodarab.resources
+D:\Programozás\Visual Studio\Mentés\Szakdolgozat\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\obj\Debug\Szakdolgozat1.Uj_Tartozek.resources
+D:\Programozás\Visual Studio\Mentés\Szakdolgozat\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\obj\Debug\Szakdolgozat1.Uj_Telefon.resources
+D:\Programozás\Visual Studio\Mentés\Szakdolgozat\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\obj\Debug\Szakdolgozat1.csproj.GenerateResource.Cache
+D:\Programozás\Visual Studio\Mentés\Szakdolgozat\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\obj\Debug\Szakdolgozat1.exe
+D:\Programozás\Visual Studio\Mentés\Szakdolgozat\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\obj\Debug\Szakdolgozat1.pdb
+D:\Programozás\VIZSGA\Mentés\Szakdolgozat\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\bin\Debug\Szakdolgozat1.exe.config
+D:\Programozás\VIZSGA\Mentés\Szakdolgozat\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\obj\Debug\Szakdolgozat1.exe
+D:\Programozás\VIZSGA\Mentés\Szakdolgozat\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\obj\Debug\Szakdolgozat1.pdb
+D:\Programozás\VIZSGA\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\bin\Debug\Szakdolgozat1.exe.config
+D:\Programozás\VIZSGA\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\obj\Debug\Szakdolgozat1.exe
+D:\Programozás\VIZSGA\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\obj\Debug\Szakdolgozat1.pdb
+D:\Programozás\VIZSGA\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\bin\Debug\Szakdolgozat1.exe
+D:\Programozás\VIZSGA\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\bin\Debug\MySql.Data.dll
+D:\Programozás\VIZSGA\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\bin\Debug\Google.Protobuf.dll
+D:\Programozás\VIZSGA\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\bin\Debug\MySql.Data.xml
+D:\Programozás\VIZSGA\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\obj\Debug\Szakdolgozat1.csprojResolveAssemblyReference.cache
+D:\Programozás\VIZSGA\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\obj\Debug\Szakdolgozat1.Alkatresz_felvitel.resources
+D:\Programozás\VIZSGA\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\obj\Debug\Szakdolgozat1.Uj_jelszo.resources
+D:\Programozás\VIZSGA\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\obj\Debug\Szakdolgozat1.Fooldal___Bejelentkezve.resources
+D:\Programozás\VIZSGA\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\obj\Debug\Szakdolgozat1.StatFelhasznalas.resources
+D:\Programozás\VIZSGA\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\obj\Debug\Szakdolgozat1.StatEladas.resources
+D:\Programozás\VIZSGA\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\obj\Debug\Szakdolgozat1.Fooldal.resources
+D:\Programozás\VIZSGA\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\obj\Debug\Szakdolgozat1.Kereses_alkatresz.resources
+D:\Programozás\VIZSGA\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\obj\Debug\Szakdolgozat1.Kereses_fodarab.resources
+D:\Programozás\VIZSGA\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\obj\Debug\Szakdolgozat1.Kereses_tartozek.resources
+D:\Programozás\VIZSGA\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\obj\Debug\Szakdolgozat1.Kereses_telefon.resources
+D:\Programozás\VIZSGA\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\obj\Debug\Szakdolgozat1.Kereses_urlapok.resources
+D:\Programozás\VIZSGA\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\obj\Debug\Szakdolgozat1.Properties.Resources.resources
+D:\Programozás\VIZSGA\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\obj\Debug\Szakdolgozat1.Selejtezes.resources
+D:\Programozás\VIZSGA\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\obj\Debug\Szakdolgozat1.Eladas.resources
+D:\Programozás\VIZSGA\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\obj\Debug\Szakdolgozat1.Uj.resources
+D:\Programozás\VIZSGA\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\obj\Debug\Szakdolgozat1.Uj_Alkatresz.resources
+D:\Programozás\VIZSGA\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\obj\Debug\Szakdolgozat1.Uj_Fodarab.resources
+D:\Programozás\VIZSGA\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\obj\Debug\Szakdolgozat1.Uj_Tartozek.resources
+D:\Programozás\VIZSGA\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\obj\Debug\Szakdolgozat1.Uj_Telefon.resources
+D:\Programozás\VIZSGA\Szakdolgozat\Szakdolgozat1\Szakdolgozat1\obj\Debug\Szakdolgozat1.csproj.GenerateResource.Cache
